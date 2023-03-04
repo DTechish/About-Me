@@ -1,12 +1,11 @@
-- 👋 Hi, I’m Daniel Glover aka DTechish.
+- 👋 Hi, I’m Daniel Glover.
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning the C# Programming Language.
-- 💞️ I’m looking to collaborate on Web-based, Java & C# projects.
+- 🌱 I’m currently learning the Java Programming Language.
+- 💞️ I’m looking to collaborate on Java projects.
 - 📫 How to reach me
 
-      Instagram : dtechish
-      Discord   : DTechish#5832
-      Twitter   : dtechish
+      Instagram : _thatsdanny
+      Discord   : iTeachProgramming#5832
 
 <!---
 dtechish/dtechish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
