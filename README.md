@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Daniel Glover.
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning the Dart Programming Language to work with Flutter.
-- 💞️ I’m looking to collaborate on Flutter Projects.
+- 🌱 I’m currently learning the C# Programming Language.
+- 💞️ I’m looking to collaborate on C# application right after I become familiar with the language.
 - 📫 How to reach me
 
-      Instagram : _thatsdanny
+      Instagram : java._.coding
       Discord   : DTechish#5832
 
 <!---
