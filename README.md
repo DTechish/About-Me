@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel Glover.
 - 👀 I’m interested in software development.
-- 🌱 But I’m currently learning Database Administration.
-- 💞️ I’m looking to collaborate on projects relating to databases.
+- 🌱 But I’m currently learning Dart and Flutter.
+- 💞️ I’m looking to collaborate on projects relating to mobile app development.
 - 📫 How to reach me
 
       Email : dtechish@gmail.com
